@@ -1,14 +1,18 @@
 <!DOCTYPE html>
 <html>
-<head>
-<title>Aidan Lindgren's Resume</title>
-</head>
-<body>
-<h1>Aidan Lindgren's Resume</h1>
+    <head>
+        <meta charset="utf-8">
+        <title>Aidan Lindgren's Resume</title>
+        <style>
+
+        </style>
+    </head>
+    <body>
+    <h1>Aidan Lindgren's Resume</h1>
 <h2><p>I am a fourteen year old freshman at <em>Medfield Senior Highschool</em>. Science has always been interesting to me so taking 
 Biology this year has allowed me to see how life around us works.I take all <strong>College 1</strong> courses and strive to take elective 
 courses that will challenge me. I am very good at math and with number which helps me excel at engineering. For sophmore year I plan on 
 taking one or two <strong>Honors</strong> classes to challenge myself even more as I get older and smarter.<br>I currently have a GPA 
 of 3.0</h2>
-</body>
+    </body>
 </html>
